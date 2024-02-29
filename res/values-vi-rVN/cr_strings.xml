@@ -62,14 +62,14 @@
     <string name="about_crdroid">Tìm hiểu thêm</string>
     <string name="about_device_name">Thiết bị</string>
     <!-- Share crDroid -->
-    <string name="share_crdroid_title">Chia sẻ crDroid</string>
-    <string name="share_crdroid_summary">Cho những người khác biết về crDroid</string>
-    <string name="share_message">Kiểm tra nếu #crDroidAndroid khả dụng cho thiết bị của bạn @ https://crdroid.net/</string>
-    <string name="share_chooser_title">Chia sẻ crDroid</string>
-    <!-- Sites crDroid -->
+    <string name="share_crdroid_title">Chia sẻ Arcadia</string>
+    <string name="share_crdroid_summary">Cho những người khác biết về Arcadia</string>
+    <string name="share_message">Kiểm tra nếu #ArcadiaAndroid khả dụng cho thiết bị của bạn @ https://crdroid.net/</string>
+    <string name="share_chooser_title">Chia sẻ Arcadia</string>
+    <!-- Sites Arcadia -->
     <string name="crdroid_source_title">Mã nguồn</string>
     <string name="crdroid_source_summary">Chúng tôi yêu nguồn mở, kiểm tra với chúng tôi</string>
-    <string name="crdroid_telegram_title">Cộng đồng crDroid</string>
+    <string name="crdroid_telegram_title">Cộng đồng Arcadia</string>
     <string name="crdroid_telegram_summary">Hãy tham gia kênh telegram của chúng tôi !</string>
     <string name="crdroid_telegram_channel_title">Kênh cập nhật</string>
     <string name="crdroid_telegram_channel_summary">Nhận thông báo của các bản dựng trên telegram</string>
@@ -79,10 +79,10 @@
     <string name="crdroid_translate_summary">Giúp bản ROM phù hợp với ngôn ngữ của bạn!</string>
     <string name="crdroid_sponsor_summary">Ghé thăm đối tác lưu trữ trang web của chúng tôi</string>
     <string name="crdroid_buildserversponsor_summary">Chúng tôi khuyến nghị máy chủ của họ nếu có hứng thú</string>
-    <!-- Donate crDroid -->
+    <!-- Donate Arcadia -->
     <string name="donate_crdroid_title">Hỗ trợ chúng tôi</string>
     <string name="donate_crdroid_summary">Đóng góp để hỗ trợ phát triển hơn nữa</string>
-    <string name="donate_team_title">Đội ngũ crDroid</string>
+    <string name="donate_team_title">Đội ngũ Arcadia</string>
     <string name="donate_team_summary">Đóng góp để hỗ trợ lưu trữ máy chủ thời gian hoạt động của trang mạng và quản lý tổng thể</string>
     <!-- The Drill -->
     <string name="drill_title">Luyện tập</string>
@@ -547,7 +547,7 @@
     <string name="qs_footer_services_icon_title">Lối tắt các dịch vụ đang chạy</string>
     <string name="qs_footer_settings_icon_title">Lối tắt cài đặt</string>
     <!-- Device Info screen. crDroid legal. -->
-    <string name="crdroid_license_title">Giấy phép crDroid</string>
+    <string name="crdroid_license_title">Giấy phép Arcadia</string>
     <!-- Quick Settings brightness slider -->
     <string name="qs_brightness_slider_category">Thanh điều chỉnh độ sáng</string>
     <string name="qs_show_brightness_slider_title">Thanh điều chỉnh độ sáng</string>

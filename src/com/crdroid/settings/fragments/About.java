@@ -78,11 +78,11 @@ public class About extends SettingsPreferenceFragment {
     @Override
     public boolean onPreferenceTreeClick(Preference preference) {
         if (preference == mDonate) {
-            launchUrl("https://crdroid.net/donate.php");
+            launchUrl("https://ko-fi.com/hzproject");
         } else if (preference == mSourceUrl) {
-            launchUrl("https://github.com/crdroidandroid");
+            launchUrl("https://github.com/ArcadiaOS");
         } else if (preference == mTelegramUrl) {
-            launchUrl("https://t.me/crDroidAndroid");
+            launchUrl("https://t.me/ArcadiaOS");
         } else if (preference == mShare) {
             Intent intent = new Intent();
             intent.setAction(Intent.ACTION_SEND);
@@ -95,7 +95,7 @@ public class About extends SettingsPreferenceFragment {
         } else if (preference == mWebsite) {
             launchUrl("https://crdroid.net");
         } else if (preference == mTelegramChannelUrl) {
-            launchUrl("https://t.me/crDroidUpdates");
+            launchUrl("https://t.me/ArcadiaOSUpdate");
         } else if (preference == mSponsor) {
             launchUrl("https://www.scopehosts.com");
         } else if (preference == mBuildServerSponsor){
